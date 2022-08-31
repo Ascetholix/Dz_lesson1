@@ -17,4 +17,4 @@ if (num1 < num2)
 {
     max = num2;
 }
-Console.WriteLine($"Чило {max} больше ");
+Console.WriteLine($"Чиcло {max} больше ");
