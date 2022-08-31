@@ -20,4 +20,4 @@ if (num3 > num2)
 {
     max = num3;
 }
-Console.WriteLine($"Чило {max} больше ");
+Console.WriteLine($"Число {max} больше ");

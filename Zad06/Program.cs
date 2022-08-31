@@ -9,10 +9,10 @@ int even;
 if (num % 2 == 0)
 {
     even = num;
-    Console.WriteLine($"Чило {even} четное ");
+    Console.WriteLine($"Число {even} четное ");
 }
 if (num % 2 == 1)
 {
     even = num;
-    Console.WriteLine($"Чило {even} нечетное ");
+    Console.WriteLine($"Число {even} нечетное ");
 }
